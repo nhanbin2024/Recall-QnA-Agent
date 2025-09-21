@@ -7,6 +7,6 @@
     }
   ],
   "env": {
-    "OPENAI_API_KEY": "@openai-api-key"  // Tham chiếu tới Secret đã tạo
+    "OPENAI_API_KEY": "@openai-api-key"
   }
 }
