@@ -21,3 +21,4 @@ def get_response(prompt):
 if __name__ == "__main__":
     user_input = "What is the capital of France?"
     print(get_response(user_input))
+  print(get_response(user_input))
