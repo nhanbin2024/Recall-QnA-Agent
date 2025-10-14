@@ -24,3 +24,4 @@ if __name__ == "__main__":
   print(get_response(user_input))
   print(get_response(user_input))
   print(get_response(user_input))
+  print(get_response(user_input))
