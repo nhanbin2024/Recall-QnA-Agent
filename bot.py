@@ -28,3 +28,7 @@ if __name__ == "__main__":
   print(get_response(user_input))
   print(get_response(user_input))
   print(get_response(user_input))
+# Lấy API key từ biến môi trường
+openai.api_key = os.getenv("OPENAI_API_KEY")# Lấy API key từ biến môi trường
+openai.api_key = os.getenv("OPENAI_API_KEY")# Lấy API key từ biến môi trường
+openai.api_key = os.getenv("OPENAI_API_KEY")
