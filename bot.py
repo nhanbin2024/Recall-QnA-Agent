@@ -14,7 +14,7 @@ def get_response(prompt):
         engine="gpt-4",  # Bạn có thể thay bằng các engine khác như "text-davinci-003"
         prompt=prompt,
         max_tokens=150
-    )
+    )if __name__ == "__main__":if __name__ == "__main__":
     return response.choices[0].text.strip()
 
 # Kiểm tra đầu ra
