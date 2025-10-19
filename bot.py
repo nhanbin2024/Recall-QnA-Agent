@@ -35,3 +35,4 @@ openai.api_key = os.getenv("OPENAI_API_KEY")# Lấy API key từ biến môi tr�
 openai.api_key = os.getenv("OPENAI_API_KEY")
 # Lấy API key từ biến môi trường
 openai.api_key = os.getenv("OPENAI_API_KEY")
+# Tải các biến môi trường từ file .env
