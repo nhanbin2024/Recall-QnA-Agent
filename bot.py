@@ -37,3 +37,4 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = os.getenv("OPENAI_API_KEY")
 # Tải các biến môi trường từ file .env
 # Tải các biến môi trường từ file .env
+# Tải các biến môi trường từ file .env
