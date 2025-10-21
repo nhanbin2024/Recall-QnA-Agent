@@ -2,3 +2,7 @@ openai
 python-dotenv
 python-dotenv
 python-dotenv
+openai
+python-dotenv
+python-dotenv
+python-dotenv
