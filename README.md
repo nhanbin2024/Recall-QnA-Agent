@@ -1,7 +1,7 @@
 # Recall-QnA-Agent
 
 This is a simple QnA agent built using OpenAI's GPT-4 model, using Python.
-
+This is a simple QnA agent built using OpenAI's GPT-4 model, using Python.
 ## Setup
 
 1. Clone this repository:
