@@ -7,7 +7,9 @@ on:
   push:
     branches:
       - main
-jobs:
+jobs:  push:
+    branches:
+      - main
   deploy:
     runs-on: ubuntu-latest
   push:
