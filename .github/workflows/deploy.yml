@@ -17,7 +17,9 @@ jobs:  push:
   push:
     branches:
       - main  push:
+    branches:  push:
     branches:
+      - main
       - main
     steps:
       - name: Check out the repository
