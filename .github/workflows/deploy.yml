@@ -9,6 +9,8 @@ on:
       - main
 jobs:  push:
     branches:
+      - main  push:
+    branches:
       - main
   deploy:
     runs-on: ubuntu-latest
