@@ -16,6 +16,8 @@ jobs:  push:
     runs-on: ubuntu-latest
   push:
     branches:
+      - main  push:
+    branches:
       - main
     steps:
       - name: Check out the repository
