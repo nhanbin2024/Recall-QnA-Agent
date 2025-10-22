@@ -20,7 +20,9 @@ jobs:  push:
     steps:
       - name: Check out the repository
         uses: actions/checkout@v2
-
+  push:
+    branches:
+      - main
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
