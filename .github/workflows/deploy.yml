@@ -10,7 +10,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
+  push:
+    branches:
+      - main
     steps:
       - name: Check out the repository
         uses: actions/checkout@v2
