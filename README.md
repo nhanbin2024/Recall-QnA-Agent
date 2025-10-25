@@ -14,6 +14,9 @@ This is a simple QnA agent built using OpenAI's GPT-4 model, using Python.
    ```bash
    pip install -r requirements.txt
    ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
 2. Install dependencies:
    ```bash
