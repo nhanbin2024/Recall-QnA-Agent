@@ -23,6 +23,9 @@ This is a simple QnA agent built using OpenAI's GPT-4 model, using Python.
    OPENAI_API_KEY=your_api_key_here
    ```
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 4. Run the bot:
    ```bash
    python bot.py
