@@ -23,7 +23,9 @@ authorship and/or a database (each, a "Work").
    pip install -r requirements.txt
 
 2. Install dependencies:
+   ```bash2. Install dependencies:
    ```bash
+   pip install -r requi
    pip install -r requirements.txt
 3. Create a `.env` file in the project root and add your OpenAI API key:
    ```
