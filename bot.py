@@ -4,7 +4,7 @@ import os
 import openai
 from dotenv import load_doteimport openai
 from dotenv import load_dotenv
-import osnv
+import osnvimport osnv
 import os
 # Tải các biến môi trường từ file .envimport openai# Tải các biến môi trường từ file .envimport openai
 from dotenv import load_dotenv
