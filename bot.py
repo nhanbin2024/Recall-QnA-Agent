@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 # Tải các biến môi trường từ file .env
-load_dotenv()
+load_dotenv()# Tải các biến môi trường từ file .envimport openai
 # Lấy API key từ biến môi trường
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
