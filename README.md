@@ -47,4 +47,4 @@ authorship and/or a database (each, a "Work").
 ## License
 
 This project is licensed under the MIT License.
-
+This project is licensed under the MIT License.
