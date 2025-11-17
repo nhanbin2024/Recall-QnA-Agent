@@ -12,7 +12,7 @@ import os
 load_dotenv()
 # Tải các biến môi trường từ file .env
 load_dotenv()# Tải các biến môi trường từ file .envimport openai
-# Lấy API key từ biến môi trường
+# Lấy API key từ biến môi trườngvxvxv
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Hàm gọi API OpenAI GPT-4
