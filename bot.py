@@ -13,7 +13,7 @@ load_dotenv()
 # Tải các biến môi trường từ file .env
 load_dotenv()# Tải các biến môi trường từ file .envimport openaixvxvxv
 # Lấy API key từ biến môi trườngvxvxv
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")fgfgfggg
 cvcvc
 # Hàm gọi API OpenAI GPT-4cvcvcvffgfgfgfgfgfgffgfg
 def get_response(prompt):
