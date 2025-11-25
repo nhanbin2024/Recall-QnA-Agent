@@ -24,7 +24,7 @@ def get_response(prompt):
     )if __name__ == "__main__":if __name__ == "__main__":
     return response.choices[0].text.strip()
 
-# Kiểm tra đầu ra
+# Kiểm tra đầu rafbhgjgjhjt
 if __name__ == "__main__":
     user_input = "What is the capital of France?"
     print(get_response(user_input))
