@@ -15,7 +15,7 @@ load_dotenv()# Tải các biến môi trường từ file .envimport openaixvxvx
 # Lấy API key từ biến môi trườngvxvxv
 openai.api_key = os.getenv("OPENAI_API_KEY")
 cvcvc
-# Hàm gọi API OpenAI GPT-4cvcvcv
+# Hàm gọi API OpenAI GPT-4cvcvcvffgfgfgfg
 def get_response(prompt):
     response = openai.Completion.create(
         engine="gpt-4",  # Bạn có thể thay bằng các engine khác như "text-davinci-003"
